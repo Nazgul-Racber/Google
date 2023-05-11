@@ -10,7 +10,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  margin-bottom: 350px;
+  margin-bottom: 335px;
 }
 
 /* ----HEADER------- */
@@ -87,7 +87,7 @@ ul li a:hover {
 }
 
 .main__search-bar--input {
-  width: 380px;
+  width: 370px;
   height: 25px;
   border: none;
   outline: none;
