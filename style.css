@@ -10,8 +10,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  margin-bottom: 335px;
-  
+  margin-bottom: 40px;
 }
 
 /* ----HEADER------- */
@@ -24,7 +23,6 @@ ul li {
 }
 ul li a {
   color: black;
-  opacity: ;
   padding: 0.5rem;
 }
 
@@ -63,14 +61,13 @@ ul li a:hover {
   text-align: center;
 }
 
-.mother h1{
+.mother h1 {
   color: yellow;
   text-shadow: 1px 1px 2px black;
-  
 }
 
-.mother img{
-  border-radius: 2.2rem;
+.mother img {
+  border-radius: 2rem;
 }
 
 .main__logo {
@@ -95,7 +92,6 @@ ul li a:hover {
   height: 30px;
   vertical-align: middle;
   border-radius: 2rem;
-  
 }
 
 .main__search-bar--input {
@@ -112,7 +108,6 @@ ul li a:hover {
   height: 20px;
   vertical-align: middle;
   cursor: pointer;
-  
 }
 
 .main__buttons--left,
@@ -131,7 +126,6 @@ ul li a:hover {
   opacity: 1;
   border: 1px solid #d3d3d3;
   box-shadow: rgb(211, 211, 211) 0.7px 0.7px 0.7px 0;
-
 }
 
 .main__language {
@@ -165,4 +159,3 @@ ul li a:hover {
   float: right;
   padding-right: 20px;
 }
-
